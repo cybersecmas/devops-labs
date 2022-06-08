@@ -1,0 +1,9 @@
+# macOS Files
+.DS_Store
+
+# Terraform Files and Folders
+.terraform
+*.tfstate
+*.tfstate.backup
+# .terraform.lock.hcl
+# *.tfvars
