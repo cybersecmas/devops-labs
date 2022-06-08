@@ -1,2 +1,3 @@
 VPC created on Tue Jun 7 17:18:23 +07 2022 and VPC ID: vpc-0f2bd059770b60a9f
 VPC created on Wed Jun 8 09:45:47 +07 2022 and VPC ID: vpc-0cf3cd7327834bbfe
+VPC created on Wed Jun 8 17:03:19 +07 2022 and VPC ID: vpc-087a0e24aeee71f88
