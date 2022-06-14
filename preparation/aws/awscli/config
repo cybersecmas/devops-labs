@@ -1,0 +1,9 @@
+# https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
+
+[default]
+region=us-west-2
+# output=json
+
+[profile terraform.test]
+region=us-east-1
+mfa_serial=arn:aws:iam::xxxxxxxxxxxx:mfa/terraform.test
