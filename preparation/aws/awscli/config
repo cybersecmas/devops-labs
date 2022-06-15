@@ -1,4 +1,5 @@
 # https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
+# .aws/config
 
 [default]
 region=us-west-2
